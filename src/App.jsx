@@ -10,7 +10,7 @@ const App = () => {
 
       <DesignUploadForm/>
       <br></br>
-      <Footer />
+  
     </Router>
   );
 };
