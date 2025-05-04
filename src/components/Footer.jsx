@@ -20,7 +20,7 @@ const Footer = () => {
                 src= { swiftze_logo}
                 width="100"
               />
-            </div>
+     
 
             <div className="flex flex-row gap-4 items-center ">
               <div className="w-8 h-8">
