@@ -6,8 +6,7 @@ import DesignUploadForm from "./components/DesignUploadForm";
 const App = () => {
   return (
     <Router>
- 
-
+    <Navbar />
       <DesignUploadForm/>
       <br></br>
       <Footer />
