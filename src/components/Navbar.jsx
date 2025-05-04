@@ -15,20 +15,7 @@ const Navbar = () => {
       </div>
 
       {/* Navigation Links on the right */}
-      <div className="hidden md:flex items-center gap-6">
-        <Link to="/" className="hover:text-red-400 transition">
-          Home
-        </Link>
-        <Link to="/about" className="hover:text-red-400 transition">
-          About Us
-        </Link>
-        <Link to="/services" className="hover:text-red-400 transition">
-          Services
-        </Link>
-        <button className="bg-red-500 hover:bg-red-600 text-white py-1 px-4 rounded transition">
-          Sign Out
-        </button>
-      </div>
+
     </nav>
   );
 };
